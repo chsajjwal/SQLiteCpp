@@ -3,7 +3,6 @@ Release
 build
 example1
 tests
-googletest
 *.a
 
 .vscode/
